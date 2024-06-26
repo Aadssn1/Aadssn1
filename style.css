@@ -1,0 +1,13 @@
+html, body {
+
+  margin: 30px;
+
+  padding: 0;
+
+}
+
+canvas {
+
+  display: block;
+
+}
